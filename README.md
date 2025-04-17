@@ -11,13 +11,14 @@ cd backend
 npm install
 node server.js
 ```
-
+Server runs on: `http://localhost:5000`
 
 ### 3. Set Up the Frontend
 ```bash
 cd client
 npm install
 npm start
+Frontend runs on: `http://localhost:3000`
 ```
 
 
